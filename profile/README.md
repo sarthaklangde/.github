@@ -1,55 +1,15 @@
-## Hi, I'm Sarthak.
+CTO at [Wilco](https://getwilco.ai). We build voice and messaging agents that follow up with patients for healthcare clinics: reminders, no-shows, treatment plans, recalls.
 
-I'm a software engineer & founder currently building **Kerto AI** — an AI product studio focused on delivering **meaningful AI MVPs in 21 days** for founders and teams. I care about **clear thinking**, **simple architectures**, and building products that solve real problems.
+Over a million patient conversations so far.
 
-I’ve spent the last 10+ years across software engineering, product, and AI — leading product & engineering for multiple startups, fine-tuning models, designing agent architectures, and shipping end-to-end systems used in production.
+**Before Wilco**
+- Led AI at [Stochastic](https://github.com/stochasticai). Built [xTuring](https://github.com/stochasticai/xTuring) (2.6k★), an open-source
+  library for fine-tuning LLMs, and [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) (550★), sub-second image generation.
+- Fine-tuned xFinance, a finance LLM that beat BloombergGPT on its own benchmarks.
+- 10+ years of production software, mostly as an early engineer at startups.
 
-When I'm not building, I explore:  
-How people change. What motivates behavior. How identity reshapes action.  
-This exploration is where my personal project **TinyShift** was born — a system for sustainable self-transformation grounded in experimentation, reflection, and self-trust.
+**Thinking about**
+How teams keep a codebase honest when agents write most of the code.
+[ai-engg-standard-2026](https://github.com/sarthaklangde/ai-engg-standard-2026) is where I write it down.
 
-### What I do
-- AI system architecture: RAG, agents, data pipelines, embeddings, evals
-- LLM fine-tuning: LoRA, domain adaptation, dataset strategy
-- Product & execution: shaping ambiguous problems into shippable systems
-- Full-stack engineering: Next.js, Node/Express/Fastify, Python, GCP, Supabase
-
----
-
-### Links & Contact
-
-<p align="center">
-<a href="https://sarthaklangde.com/">
-<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://kerto.ai/">
-<img src="https://img.shields.io/badge/Kerto%20AI-681DFF?style=for-the-badge&logo=spark&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/sarthaklangde">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/sarthaklangde">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</p>
-
----
-
-### Recent Focus Areas
-- Designing AI systems that are **explainable, reliable, and maintainable**
-- Embedding AI into **business workflows**, not as a novelty layer
-- Reducing **time-to-insight** and **time-to-value** for founders
-- Coaching & frameworks for **self-guided behavioral change**
-
----
-
-### Selected Work
-- Built enterprise AI agent platforms for knowledge-heavy workflows  
-- Fine-tuned finance LLMs exceeding BloombergGPT benchmark scores  
-- Designed autonomous task execution systems for research and operations  
-- Shipped production systems used across startups and distributed teams
-
----
-
-**If you’re building something** and want to move fast without drowning in architecture decisions,  
-reach out → **hello@kerto.ai**
+**Wilco is hiring.** If you want to build AI that talks to real patients, reach out to me. 
